@@ -1,0 +1,2 @@
+export const business = {"phone":"073 156 8080","location":"Dlamini, Soweto","palette":["#222e32","#c1945c","#eef0ed"],"sub":"A structured portfolio direction for architecture and construction in Dlamini.","archetype":"Technical trades","title":"Spaces start with a plan.","industry":"Architecture, construction","photo":"https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1800&q=85","email":"","name":"Marule Architects & Construction"};
+
